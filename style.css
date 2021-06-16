@@ -1,0 +1,61 @@
+Body {
+    text-align: center;
+}
+
+.about me {
+    padding: 20px;
+    font-size: 20px;
+    background color: darksalmon;
+    height:563px; 
+}
+
+.bio {
+    padding:20px;
+    font-size:20px;
+    background color: aqua;
+    height:563px; 
+}
+
+h1{
+    text-shadow:2px 2px #F8BBDO;
+    font-size:20px;
+    font-family:'New Tegomin',serif;
+}
+
+#name{
+    font-family:'Dancing Script',cursive; 
+}
+
+img{
+    width: 200px;
+    margin-bottom:50px;
+    border-radius:50%; 
+}
+
+.line{
+    height:6px;
+    background-color: crimson;
+    width:70px;
+    margin:8px auto;
+}
+
+p{
+    color: blue;
+    font-family:'Roboto',sans-serif;
+}
+
+h2{
+  text-shadow:2px 2px #F8BBDO;
+font-size:20px;
+    font-family:Poppins',sans-serif;
+}
+
+#hobby{
+    font-family:Lobster',cursive; 
+}
+        
+        
+    
+
+
+
